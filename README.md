@@ -24,7 +24,7 @@
 ## Results
 
 * Their four industry verticals represent 50 percent of the U.S. economy and are expected to create over 5 million jobs by 2028.
-* By building a high-performance metrics system based on customized open source building blocks, Two Sigma is able to prove or falsify their hypothesis and document their historical research. According to Venn, a two sigma entity, they're cummulative returns have been overall bullish while occasionally having bearish pullbacks due to normal market cycles.
+* By building a high-performance metrics system based on customized open source building blocks, Two Sigma is able to prove or falsify their hypothesis and document their historical research. According to Venn, a two sigma entity, their cummulative returns have been overall bullish while occasionally having bearish pullbacks due to normal market cycles.
 * According to investopia and other sources, Two Sigma is the 6th ranked hedge fund in the world behind Renaissance technologies, D.E. Shaw, AQR Capitl managemnet, Bridgewater associates, and Citadel.
 
 ## Recommedation
