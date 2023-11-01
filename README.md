@@ -28,10 +28,10 @@
 * According to investopia and other sources, Two Sigma is the 6th ranked hedge fund in the world behind Renaissance technologies, D.E. Shaw, AQR Capitl managemnet, Bridgewater associates, and Citadel.
 
 ## Recommedation
-* Recently, Two Sigma has been under investigation by the SEC for an unauthorized researcher tampering with one of their models. I would advise the company to have a security team that notifies when a researcher or anyone else working on the project wants to make a change. That way, no one without authorization can edit or minipulate the companies fiancial models.
-* This would save the companies investments from potential losses, and provide contiuous accuracy to their data and research.
+* Recently, Two Sigma has been under investigation by the SEC for an unauthorized researcher tampering with one of their models. I would advise the company to have a security team that gets notified when a researcher or anyone else is working on the project and wants to make a change. That way, no one without authorization can edit or minipulate the companies fiancial models.
+* This would save the companies investments from potential losses, and provide consistent accuracy to their data and research.
 * This would utilize some cyber security concepts and also data forensics.
-* This would be useful for their cyber security team to lock data and permit unauthorized reserchers from tampering with strategies.
+* This would be useful for their cyber security team to protect data and permit unauthorized reserchers from tampering with strategies.
 
 ## Work Cited and Resources Used
 https://www.twosigma.com/
