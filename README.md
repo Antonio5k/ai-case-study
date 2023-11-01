@@ -10,7 +10,7 @@
 
 ## Business Activities
 
-* Two Sigma's mission is to use advanced technology to identify oppurtunities to profit in finacial markets. They're strategies involves applying the scientific method to finance in order to make data driven decisions.
+* Two Sigma's mission is to use data science and other advanced technology to identify oppurtunities to profit in finacial markets. They're strategies involves applying the scientific method to finance in order to make data driven decisions.
 * Two Sigma is for investors looking to make a career profiting in financial markets and real estate investments. They currently have 2000 employees as of 2023.
 * The differece between Two Sigma and their competitors, is their attention to data research and how it's applicable to finance constantly positions them at the forefront of cutting edge strategies. They are also diversified into real estate assets.
 * Two Sigma uses machine learning and distributed computing as well as other technologies including 7,200+ servers in their computing enviorment, 775k+ vCPUs, 5000 terabytes of memory and 10000+ data sources.
