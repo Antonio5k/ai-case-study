@@ -34,7 +34,7 @@
 * This would be useful for their cyber security team to protect data and permit unauthorized reserchers from tampering with strategies.
 
 ## Work Cited and Resources Used
-https://www.twosigma.com/
-https://en.wikipedia.org/wiki/Two_Sigma
-https://www.investopedia.com/articles/personal-finance/011515/worlds-top-10-hedge-fund-firms.asp
-https://www.twosigma.com/approach/#vtab-2
+* https://www.twosigma.com/
+* https://en.wikipedia.org/wiki/Two_Sigma
+* https://www.investopedia.com/articles/personal-finance/011515/worlds-top-10-hedge-fund-firms.asp
+* https://www.twosigma.com/approach/#vtab-2
