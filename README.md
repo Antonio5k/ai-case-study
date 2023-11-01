@@ -18,7 +18,7 @@
 ## Landscape
 
 * Two Sigma is in the finacne industry and also Real Estate.
-* Two sigma has been researching deep learning to use neural networks in finance and LLMs to do sentiment analysis on finacial documents stay ahead of their competitors and increase accuracy of their own models.
+* Two sigma has been researching deep learning to use neural networks in finance and LLMs to do sentiment analysis on finacial documents to stay ahead of their competitors and increase accuracy of their own models.
 * Two Sigma has many competitors like Citadel, Bridgewater Associates, D.E. Shaws and Rennaisance technologies.
 
 ## Results
